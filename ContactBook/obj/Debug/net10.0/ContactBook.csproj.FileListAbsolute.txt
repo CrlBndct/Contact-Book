@@ -1,0 +1,14 @@
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\bin\Debug\net10.0\ContactBook.exe
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\bin\Debug\net10.0\ContactBook.deps.json
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\bin\Debug\net10.0\ContactBook.runtimeconfig.json
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\bin\Debug\net10.0\ContactBook.dll
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\bin\Debug\net10.0\ContactBook.pdb
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ContactBook.AssemblyInfoInputs.cache
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ContactBook.AssemblyInfo.cs
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ContactBook.dll
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\refint\ContactBook.dll
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ContactBook.pdb
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ContactBook.genruntimeconfig.cache
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\ContactBook\ContactBook\obj\Debug\net10.0\ref\ContactBook.dll
